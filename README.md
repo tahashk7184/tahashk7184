@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Sheikh</h1>  
-<h3 align="center">MERN STACK DEVELOPER</h3>
+<h3 align="center">FRONTEND DEVELOPER</h3>
     
 <div align="left">   
   
